@@ -12,7 +12,7 @@ let questions = [
         A. Hola
         B. Au Revoir
         C. Salir
-        D. Adiós`,
+        D. Adios`,
       correctAnswer: "D"
     },
     {
